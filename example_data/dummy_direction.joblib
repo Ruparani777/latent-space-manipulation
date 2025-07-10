@@ -1,0 +1,4 @@
+import numpy as np
+import joblib
+direction = np.random.randn(512).astype(np.float32)
+joblib.dump(direction, "dummy_direction.joblib")
