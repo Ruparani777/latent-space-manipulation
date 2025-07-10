@@ -1,0 +1,3 @@
+import numpy as np
+latent = np.random.randn(512).astype(np.float32)
+np.save("dummy_latent.npy", latent)
