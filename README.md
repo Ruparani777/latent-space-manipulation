@@ -1,6 +1,5 @@
 # latent-space-manipulation
-latent-space-manipulation/
-# Latent Space Manipulation
+
 
 This project demonstrates how to manipulate latent vectors in the direction of a learned semantic attribute (e.g., smile, glasses).
 
